@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **SOCIAL MEDIA AUTOMATION**
 
-- 🌱 I’m currently learning **ETHICAL HACKING,REACTJS,BOOTSTRAP,OPEN CV (PYTHON),TENSERFLOW**
+- 🌱 I’m currently learning **ETHICAL HACKING,REACTJS,BOOTSTRAP,OPEN CV (PYTHON),TENSERFLOW ,Bootstrap,etc**
 
-- ⚡ Fun fact **I THINK I AM WORK ORIENTED**
+- I JUST BELIVE ON LEANING NEW THINGS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
