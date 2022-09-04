@@ -1,24 +1,40 @@
-<h1 align="center">Hi 👋, I'm SARTHAK SANJIV KHANDARE</h1>
-<h3 ima align= “right” alt = “coding” width =“400” src=“https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif”>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak4399&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak4399" /> </p>
+# SARTHAK SANJIV KHANDARE
+<a href="https://www.github.com/sarthak4399" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/sarthak khandare" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak4399" alt="sarthak4399" /></a> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=sarthak4399&theme=default&color=blue&style=flat&label=Profile+Views)
 
-- 🔭 I’m currently working on **SOCIAL MEDIA AUTOMATION**
+## About me
+🔭&nbsp;I’m currently working in **ABUROBOCON2023 ,EYANTRA (EYRC-2023)**
+<br/>🎓&nbsp;DEPARTMENT  **INSTRUMENTATION ENGINEERING **
+<br/>🌱&nbsp;Learning about **CYBER SECURITY ,ANDROID DEVELOPEMENT,**
+<br/>💡&nbsp;I'm interested about **CYBER SECURITY , ANDROID DEVELOPEMENT,FRONT END DEVELOPEMENT ,**
+<br/>💬&nbsp;Ask me about **CYBER SECURITY AREAS**
+<br/>😄&nbsp;Pronouns **HE**
 
-- 🌱 I’m currently learning **ETHICAL HACKING,REACTJS,BOOTSTRAP,OPEN CV (PYTHON),TENSERFLOW ,Bootstrap,etc**
+## Tech Stack
+<img src="https://img.shields.io/badge/Android-05122A?style=flat&logo=android" alt="android Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino" alt="arduino Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap" alt="bootstrap Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c" alt="c Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=canva" alt="canva Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="docker Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Elixir-05122A?style=flat&logo=elixir" alt="elixir Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma" alt="figma Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Kotlin-05122A?style=flat&logo=kotlin" alt="kotlin Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Matlab-05122A?style=flat&logo=matlab" alt="matlab Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React-05122A?style=flat&logo=react" alt="react Badge" height="25">&nbsp;
 
-- I JUST BELIVE ON LEANING NEW THINGS.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sarthak khandare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak khandare" height="30" width="40" /></a>
-<a href="https://instagram.com/_sarth_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sarth_21" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarthak4399&show_icons=true&locale=en&layout=compact" alt="sarthak4399" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak4399&show_icons=true&locale=en" alt="sarthak4399" /></p>
+## GitHub Analytics
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarthak4399&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak4399&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak4399&theme=default">
+</div>
